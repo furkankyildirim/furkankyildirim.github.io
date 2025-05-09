@@ -1,4 +1,4 @@
-- name: Solving the Multi‑layer Thin Films Problem with Optimization Techniques
+- name: Solving the Multi‑layer Thin Films Problem <br/> with Optimization Techniques
   url: https://pure.sabanciuniv.edu/project/10307/solving-multi-layer-thin-films-problem-optimization-techniques
   code: #
   description: • Under the supervision of Prof. Dr. Burak Kocuk and within the scope of Sabancı PURE program, optimized the reflectivity of a metallic substrate by carefully selecting and layering dielectric materials. <br/> • Created a producable thin film with a reflectance level of 99.8% in the visible light wavelength range using mixed‐integer nonlinear programming techniques.
@@ -30,7 +30,7 @@
     - thing: Redis
     - thing: Docker
 
-- name: Social Media Platform (Cloud Computing Project)
+- name: Social Media Platform <br/> (Cloud Computing Project)
   url: https://github.com/furkankyildirim/CS436-Cloud-Computing-Project
   code: https://github.com/furkankyildirim/CS436-Cloud-Computing-Project
   description: • Developed a social media platform with features like user authentication, friend management, post sharing, and profile analytics. <br/> • Implemented using Express.js and Node.js, deployed on Google Cloud Platform with MongoDB Atlas. <br/> • Featured CI/CD with GitHub Actions and infrastructure as code using Terraform.
