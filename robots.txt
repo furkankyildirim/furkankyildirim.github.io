@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://furkankyildirim.github.io/sitemap.xml

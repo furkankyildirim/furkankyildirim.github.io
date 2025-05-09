@@ -1,0 +1,41 @@
+- company: Flio.ai
+  url: https://flio.ai/
+  time: August 2023 - Present
+  position: Founder
+  description: • Engineer an end-to-end Order Management System integrated with a Vehicle Routing Optimization Engine, leveraging mathematical modeling and advanced heuristic algorithms to address complex logistical constraints and enhance operational efficiency in supply chain networks. <br/> • Collaborate with Sabancı University and its entrepreneurship program SUCool (Start-Up Company League) during the development of the system, which secures investment through TÜBİTAK 1512 BİGG and reaches a $1M valuation. <br/> • Develop the software using Python's FastAPI for the backend and JavaScript frameworks React and React Native for web and mobile frontends. <br/> • Implement CI/CD pipelines with Docker, deploying scalable microservices architecture on both Google Cloud and AWS platforms.
+
+- company: Sabancı University
+  url: https://www.sabanciuniv.edu/
+  time: February 2024 - Present
+  position: Teaching Assistant
+  description: • Teaching Assistant for ENS 208 - Introduction to Industrial Engineering course. <br/> • Assist students with their learning through weekly recitation sessions, grade assignments and exams. <br/> • Hold regular office hours to provide additional support. <br/> • Help students understand fundamental industrial engineering concepts and problem-solving methodologies.
+
+- company: Getir
+  url: https://getir.com/
+  time: November 2022 - November 2023
+  position: Algorithm Engineer
+  description: • Took role in the improvement and development of micro‑services that receive 1.2M orders per day using Python. <br/> • Participated in the development of business logic algorithms to deliver orders in the most efficient way in GetirMarket domain. <br/> • Maintained the development of Discrete Event Simulation to optimize test and runtime performances of the algorithms using Python, FastAPI, Numpy and Pandas. <br/> • Worked on visualizing and analyzing data results from VROOM, OSRM and New Relic.
+
+- company: Getir
+  url: https://getir.com/
+  time: April 2022 - November 2022
+  position: Algorithm Engineer Intern
+  description: • Worked on optimization test and runtime performances of OSRM and VROOM results with Discrete Event Simulation on Getir Market platform using Python libraries FastAPI, Numpy and Pandas. <br/> • Developed unit tests, integration tests and refactored codebases for micro-services of the Getir Market platform using Python.
+
+- company: Sabancı University
+  url: https://www.sabanciuniv.edu/
+  time: October 2022 - June 2022
+  position: Learning & Teaching Assistant
+  description: • Assisted Instructor Gülşen Demiröz on Data Structures Course, gave homework, graded, and helped students on assignments. <br/> • Held weekly office hours for student consultations. <br/> • Assisted students with their Python learning through weekly recitation sessions in the Computational Approaching to Problem Solving course called IF100. <br/> • Extracted Turkish texts from PDF images using Python and certain APIs with Sabancı University VERİM.
+
+- company: CRS Software
+  url: #
+  time: January 2021 - February 2022
+  position: Software Engineer Intern
+  description: • Created and developed an e-commerce platform with .NET using C# language during the internship. <br/> • Gained hands-on experience in full-stack development and e-commerce solutions.
+
+- company: Hiperlink
+  url: #
+  time: June 2021 - January 2022
+  position: Software Engineer Intern
+  description: • Developed Search API in an e-Book Library with Python Flask, Redis and MySQL. <br/> • Created a cross-platform mobile application of an e-Book Library with Flutter. <br/> • Implemented efficient search functionality and mobile-first user interfaces.

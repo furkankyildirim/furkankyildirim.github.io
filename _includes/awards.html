@@ -1,0 +1,18 @@
+<section class="section experience">
+  <div class="section__title">Awards & Certifications</div>
+  <div class="section__content">
+    <div class="jobs">
+      {% for award in site.data.awards %}
+      <div class="job">
+        <div class="time-place">
+          <div class="job__company">
+            <a target="_blank">{{award.organization}}</a>
+          </div>
+          <div class="job__time">{{award.date}}</div>
+        </div>
+        <div class="job__position" style="margin-bottom: 8px;">{{award.title}}</div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section> 
