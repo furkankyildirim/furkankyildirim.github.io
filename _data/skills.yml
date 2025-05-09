@@ -1,0 +1,32 @@
+languages:
+  - item: Python
+  - item: JavaScript
+  - item: C++
+  - item: C#
+  - item: R
+  - item: HTML/CSS
+  - item: Dart
+  - item: SQL
+
+frameworks:
+  - item: React / React Native
+  - item: FastAPI
+  - item: Flask
+  - item: Flutter
+  - item: Node.js
+
+tools:
+  - item: Git & GitHub
+  - item: Docker
+  - item: Kubernetes
+  - item: AWS
+  - item: Google Cloud
+  - item: CI/CD
+
+expertise:
+  - item: Data Structures & Algorithms
+  - item: Vehicle Routing Problems
+  - item: Optimization
+  - item: Discrete Event Simulation
+  - item: Software Architecture & Design
+  - item: Micro-service Development

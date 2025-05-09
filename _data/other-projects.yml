@@ -1,0 +1,84 @@
+- name: Solving the Multi‑layer Thin Films Problem with Optimization Techniques
+  url: https://pure.sabanciuniv.edu/project/10307/solving-multi-layer-thin-films-problem-optimization-techniques
+  code: #
+  description: • Under the supervision of Prof. Dr. Burak Kocuk and within the scope of Sabancı PURE program, optimized the reflectivity of a metallic substrate by carefully selecting and layering dielectric materials. <br/> • Created a producable thin film with a reflectance level of 99.8% in the visible light wavelength range using mixed‐integer nonlinear programming techniques.
+  used:
+    - thing: Python
+    - thing: Mixed-Integer Programming
+    - thing: Optimization
+    - thing: Mathematical Modeling
+
+- name: E-Bebek Delivery Route Optimization
+  url: #
+  code: #
+  description: • Graduation project under Prof. Dr. Bülent Çatay developing a Vehicle Routing Problem (VRP) solution for E-Bebek Company. <br/> • Reduced costs by 20% ($150K/year) through optimized route planning and visualization.
+  used:
+    - thing: Python
+    - thing: FastAPI
+    - thing: VROOM
+    - thing: OSRM
+    - thing: PostgreSQL
+
+- name: Voidture E-Commerce Platform
+  url: https://github.com/furkankyildirim/CS308-Software_Engineering
+  code: https://github.com/furkankyildirim/CS308-Software_Engineering
+  description: • Led development of a furniture e-commerce mobile application using Flutter. <br/> • Managed mobile team and developed backend services using FastAPI, PostgreSQL, Redis, and Docker. <br/> • Used Jira and Bitbucket for project management.
+  used:
+    - thing: Flutter
+    - thing: FastAPI
+    - thing: PostgreSQL
+    - thing: Redis
+    - thing: Docker
+
+- name: Social Media Platform (Cloud Computing Project)
+  url: https://github.com/furkankyildirim/CS436-Cloud-Computing-Project
+  code: https://github.com/furkankyildirim/CS436-Cloud-Computing-Project
+  description: • Developed a social media platform with features like user authentication, friend management, post sharing, and profile analytics. <br/> • Implemented using Express.js and Node.js, deployed on Google Cloud Platform with MongoDB Atlas. <br/> • Featured CI/CD with GitHub Actions and infrastructure as code using Terraform.
+  used:
+    - thing: Node.js
+    - thing: Express.js
+    - thing: MongoDB Atlas
+    - thing: Google Cloud Platform
+    - thing: Docker
+    - thing: Terraform
+    - thing: GitHub Actions
+
+- name: Heart Disease Data Analysis Project
+  url: https://github.com/furkankyildirim/CS210-Introduction-to-Data-Science
+  code: https://github.com/furkankyildirim/CS210-Introduction-to-Data-Science
+  description: • This project examines and tries to predict the effect of some factors such as age, gender, genetic predisposition, place of birth on heart diseases. <br/> • Used a large dataset and Python under the Introduction to Data Analysis Course.
+  used:
+    - thing: Python
+    - thing: Data Analysis
+    - thing: Machine Learning
+
+- name: SUchedule Mobile App
+  url: https://github.com/furkankyildirim/sucheduleApp
+  code: https://github.com/furkankyildirim/sucheduleApp
+  description: • Developed a mobile application for Sabancı University students to create class schedules with an intuitive interface. <br/> • Published on Google Play Store and App Store, reaching 2000+ downloads with 4.9/5 rating.
+  used:
+    - thing: React Native
+    - thing: Python
+    - thing: Flask
+    - thing: Mobile Development
+
+- name: SUprerequisites
+  url: https://github.com/furkankyildirim/SUprerequisites
+  code: https://github.com/furkankyildirim/SUprerequisites
+  description: • Developed under Prof. Dr. Hüsnü Yenigün, created an algorithm to collect and analyze prerequisites for Sabancı University courses. <br/> • Built visualization tools using JavaScript and Python Flask.
+  used:
+    - thing: Python
+    - thing: Flask
+    - thing: JavaScript
+    - thing: Data Visualization
+
+- name: WakeGuard
+  url: https://github.com/furkankyildirim/WakeGuardApp
+  code: https://github.com/furkankyildirim/WakeGuardApp
+  description: • Created a location-based alarm application using React Native and Firebase. <br/> • Published on Google Play Store and App Store, achieving 1000+ downloads with 4.8/5 rating. <br/> • Features include location tracking and distance-based alerts.
+  used:
+    - thing: React Native
+    - thing: Firebase
+    - thing: Location Services
+    - thing: Mobile Development
+
