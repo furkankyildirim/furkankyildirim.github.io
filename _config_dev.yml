@@ -7,7 +7,7 @@ baseurl: ''
 email: contact@furkankyildirim.com
 cover: /img/og.png
 # logo: /img/emojis/technologist.png
-resume: /resume.pdf
+resume: /assets/files/resume.pdf
 social:
   - title: email
     url: mailto:contact@furkankyildirim.com
