@@ -1,0 +1,25 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Furkan Yildirim//vCard//TR
+LANG:tr
+
+N:Yıldırım;Furkan;K.;;
+FN:Furkan K. Yıldırım
+SORT-STRING:Yildirim
+
+ORG:Yilven;Kurucu
+TITLE:Uzm. Endüstri Mühendisi & Bilgisayar Mühendisi
+
+EMAIL;type=INTERNET;type=HOME;type=pref:contact@furkankyildirim.com
+EMAIL;type=INTERNET;type=WORK:furkan.yildirim@yilven.com
+
+URL;type=HOME:https://furkankyildirim.com
+URL;type=WORK:https://yilven.com
+
+TEL;type=CELL;type=VOICE;type=pref:+905333764796
+ADR;type=WORK:;;Ritim İstanbul No:46/50;Maltepe;İstanbul;34846;Türkiye
+X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/furkankyildirim
+
+NOTE: Y.Lisans Endüstri Mühendisliği & Lisans Bilgisayar Bilimleri ve Mühendisliği, Sabancı Üniversitesi
+
+END:VCARD
