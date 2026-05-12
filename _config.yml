@@ -22,6 +22,8 @@ social:
 
 # Build settings
 markdown: kramdown
+permalink: /:categories/:title/
+include: ['vCard']
 
 exclude:
   - 'Gemfile'
@@ -37,6 +39,7 @@ keep_files:
   - 'CNAME'
   - '.git'
   - '.gitignore'
+  - 'vCard'
 
 plugins_dir:
   - jekyll-minifier
